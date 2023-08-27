@@ -1,2 +1,2 @@
 # odin-recipes
-# The recipes page assignment
+The recipes page assignment
