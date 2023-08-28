@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(224, 224, 125);
+}
+body{
+    text-align: center;
+    background-color: beige;
+}
+img{
+    width:400px;
+    height:auto;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+
+}
